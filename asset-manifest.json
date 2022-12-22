@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/library-react-firebase/static/css/main.ffe34ec7.css",
+    "main.js": "/library-react-firebase/static/js/main.579a7a5a.js",
+    "index.html": "/library-react-firebase/index.html",
+    "main.ffe34ec7.css.map": "/library-react-firebase/static/css/main.ffe34ec7.css.map",
+    "main.579a7a5a.js.map": "/library-react-firebase/static/js/main.579a7a5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe34ec7.css",
+    "static/js/main.579a7a5a.js"
+  ]
+}
